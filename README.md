@@ -1,1 +1,1 @@
-#A basic Store Managment Web App#
+# A basic Store Managment Web App #
