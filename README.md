@@ -26,7 +26,7 @@ basic-store-manager/
 - README.md
 
 ### 🐳 Docker Setup (Recommended)
-Pull docker PostgreSQL Image, and provide environment variables to connect with database.
+- Pull docker PostgreSQL Image, and provide environment variables to connect with database.
 
 ### 💻 Manual Setup
 - Install node_modules with relevant packages, and libraries for typescript, tailwind css, node, and flask.
