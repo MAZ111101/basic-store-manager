@@ -20,10 +20,10 @@
 
 ### 📁 Project Structure
 basic-store-manager/
-backend/app.py
-frontend/src/...
-database/db_init.py
-README.md
+- backend/app.py
+- frontend/src/...
+- database/db_init.py
+- README.md
 
 ### 🐳 Docker Setup (Recommended)
 Pull docker PostgreSQL Image, and provide environment variables to connect with database.
